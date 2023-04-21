@@ -3,7 +3,7 @@ A tool to physically control Riders Republic from a bike trainer and VR setup.
 
 
 ## Things you'll need :
-
+- Download the .zip of the app here : https://github.com/Holydh/BikeBinderVR/releases/tag/Release
 - .Net 6 runtime : [https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.16-windows-x64-binaries](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.16-windows-x64-binaries)
 - A PCVR setup (only tested on Quest 2 with Airlink so far)
 - Riders Republic
