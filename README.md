@@ -15,7 +15,7 @@ The app will automatically prompt you with Vigem Bus installer if you don't have
 
 ### Please open an issue on this github page if you find bugs so I can keep track and fix them asap.
 
-### Browse the right panel tabs of Bike Binder VR to find every info needed.
+### Browse the right panel tabs of Bike Binder VR to find every info needed. Tutorial available in the "How to use" tab.
 
 ![1](https://user-images.githubusercontent.com/109091343/233663790-688885fc-62c7-4f99-aab9-b1e2da8abb82.png)
 
