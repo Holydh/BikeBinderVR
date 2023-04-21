@@ -1,5 +1,6 @@
 # Bike Binder VR
 A tool to physically control Riders Republic from a bike trainer and VR setup. 
+POV Gameplay video : https://www.youtube.com/watch?v=0u8q5vU9P38
 
 
 ## Things you'll need :
