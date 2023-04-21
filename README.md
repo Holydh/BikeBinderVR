@@ -11,6 +11,8 @@ A tool to physically control Riders Republic from a bike trainer and VR setup.
 - A bike (even a dirt cheap one, it just needs to be compatible with the trainer)
 - A bike trainer (there's some really cheap on second hand market too, mine was 30 bucks and works wonderfully well. No need for a connected one).
 
+The app will automatically prompt you with Vigem Bus installer if you don't have it installed already at first launch. (The driver used to create the virtual Xbox gamepad)
+
 ### Please open an issue on this github page if you find bugs so I can keep track and fix them asap.
 
 ### Browse the right panel tabs of Bike Binder VR to find every info needed.
