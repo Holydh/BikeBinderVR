@@ -8,7 +8,7 @@ A tool to physically control Riders Republic from a bike trainer and VR setup.
 - A PCVR setup (only tested on Quest 2 with Airlink so far)
 - Riders Republic
 - a VR viewer like the free Depth3d companion app to see your desktop inside your hmd (https://github.com/BlueSkyDefender/Depth3D)
-- A bike (even a dirt cheap one, it just needs to be compatible with the trainer)
+- A bike (even a dirt cheap one, it just needs to be compatible with the trainer) with it's stem screw removed so you can freely move the handlebar without moving the wheel (grease the base of the handlebar so it won't damage the stem).
 - A bike trainer (there's some really cheap on second hand market too, mine was 30 bucks and works wonderfully well. No need for a connected one).
 
 The app will automatically prompt you with Vigem Bus installer if you don't have it installed already at first launch. (The driver used to create the virtual Xbox gamepad)
