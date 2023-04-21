@@ -54,6 +54,10 @@ I know I'm not objective but, damn, it's really fun to use, I'm really glad with
 
 ## Credits :
 Vigem for gamepad inputs
+
 Ab3d Oculus C# Wrapper for Oculus SDK
+
 OvrSharp C# Wrapper for OpenVR
-Licences available for all these libraries in the Licences.txt file
+
+Licences available for all these libraries in the Licences folder.
+
