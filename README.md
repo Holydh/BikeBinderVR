@@ -51,6 +51,9 @@ To play online again, just redo this list in reverse.
 ## A few final words :
 I know I'm not objective but, damn, it's really fun to use, I'm really glad with how it turned out. I hope you'll enjoy it too.
 
+## Wanna support my weird experiments ?
+You can toss me a coin for a beer here : https://ko-fi.com/holydh
+
 
 ## Credits :
 Vigem for gamepad inputs
