@@ -40,7 +40,7 @@ For 3D view, you'll have to use VorpX or Reshade. More on that below.
 VorpX and Reshade works well with Riders Republic BUT, you'll have to force disable Battleye anticheat for this to work.
 
 # USE AT YOUR OWN RISKS
-## I would advise against it since this could probably get you banned. I don't know how tolerant Battleye and Ubisoft are toward VorpX and Reshade's hooking methods.
+## I would advise against it since this could get you banned. I don't know how tolerant Ubisoft is toward this.
 
 If you accept taking that risk on your own and want to try it anyway, here's a way to deactivate battleye and play in Zen mod offline only :
 - Set Ubisoft Connect in offline mod.
