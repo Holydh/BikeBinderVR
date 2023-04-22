@@ -42,13 +42,13 @@ VorpX and Reshade works well with Riders Republic BUT, you'll have to force disa
 # USE AT YOUR OWN RISKS
 ## I would advise against it since this could probably get you banned. I don't know how tolerant Battleye and Ubisoft are toward VorpX and Reshade's hooking methods.
 
-But if you want to try it anyway, there's a way to play only in Zen mod offline. Here's a quick how to :
+If you accept taking that risk on your own and want to try it anyway, here's a way to deactivate battleye and play in Zen mod offline only :
 - Set Ubisoft Connect in offline mod.
 - Disable auto Updates on Riders Republic in Ubisoft Connect (in case they patch it soon, wich could happen quickly)
 - In the game's root folder, rename "RidersRepublic_BE.exe" into "RidersRepublic_BE.exe.old"
-- Duplicate RidersRepublic.exe and rename that copy into "RidersRepublic_BE.exe"
+- Duplicate "RidersRepublic.exe" and rename it into "RidersRepublic_BE.exe"
 - Rename the folder "BattlEye" into "BattleEye.old"
-- Just to be safe, add Firewall rules to block both RidersRepublic_BE.exe and RidersRepublic.exe
+- Just to be a bit safer, add Firewall rules to block both RidersRepublic_BE.exe and RidersRepublic.exe
 
 To play online again, just redo this list in reverse.
 
