@@ -39,8 +39,8 @@ For 3D view, you'll have to use VorpX or Reshade. More on that below.
 ## For 3D rendering :
 VorpX and Reshade works well with Riders Republic BUT, you'll have to force disable Battleye anticheat for this to work.
 
-# USE AT YOUR OWN RISKS
-## I would advise against it since this could get you banned. I don't know how tolerant Ubisoft is toward this.
+## USE VORPX OR RESHADE AT YOUR OWN RISKS
+## I would advise against it since this could get you banned. I don't know how tolerant Ubisoft is toward it.
 
 If you accept taking that risk on your own and want to try it anyway, here's a way to deactivate battleye and play in Zen mod offline only :
 - Set Ubisoft Connect in offline mod.
@@ -69,4 +69,3 @@ Ab3d Oculus C# Wrapper for Oculus SDK
 OvrSharp C# Wrapper for OpenVR
 
 Licences available for all these libraries in the Licences folder.
-
